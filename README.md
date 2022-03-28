@@ -17,6 +17,8 @@
 
 :floppy_disk: I'm learning GO (Gophers are cool) :hamster:
 
+:floppy_disk: I'm learning ML (it's time to create the Matrix ) :dark_sunglasses:
+
 :floppy_disk: I'm interested in astronomy :telescope:
 
 :floppy_disk: I like astrophotography (I took pictures of some famous star) :milky_way:
