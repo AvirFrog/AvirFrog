@@ -23,7 +23,7 @@
 
 :floppy_disk: I like astrophotography (I took pictures of some famous star) :milky_way:
 
-:floppy_disk: I'm intrested in Chatbots and Voicebots :robot:
+:floppy_disk: I'm intrested in Chatbots and Voicebots (Look at [Marian](https://github.com/AvirFrog/Marian) and [Video](https://www.youtube.com/watch?v=Prba0D_Ap-w)) :robot:
 
 ![Me](https://github.com/AvirFrog/AvirFrog/blob/main/img/ItsMe.png)
 
