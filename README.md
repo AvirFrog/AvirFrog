@@ -15,10 +15,6 @@
 
 :floppy_disk: I like genomic :dna:
 
-:floppy_disk: I'm learning GO (Gophers are cool) :hamster:
-
-:floppy_disk: I'm learning Ruby (こんにちは友達) :diamonds:
-
 :floppy_disk: I'm learning ML (it's time to create the Matrix ) :dark_sunglasses:
 
 :floppy_disk: I'm interested in astronomy :telescope:
