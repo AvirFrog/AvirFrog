@@ -13,7 +13,7 @@
 
 :floppy_disk: I like python :snake:
 
-:floppy_disk: I like genomic :dna:
+:floppy_disk: I like genomics :dna:
 
 :floppy_disk: I'm learning ML (it's time to create the Matrix ) :dark_sunglasses:
 
