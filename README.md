@@ -22,6 +22,8 @@
 :floppy_disk: I like astrophotography (I took pictures of some famous star) :milky_way:
 
 
+## Visits on this profile since 01.01.2024
+
 ![Visitor Count](https://profile-counter.glitch.me/{AvirFrog}/count.svg)
 
 
