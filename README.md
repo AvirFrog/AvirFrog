@@ -21,4 +21,8 @@
 
 :floppy_disk: I like astrophotography (I took pictures of some famous star) :milky_way:
 
+
+![Visitor Count](https://profile-counter.glitch.me/{AvirFrog}/count.svg)
+
+
 `it's not a bug it's a feature`
