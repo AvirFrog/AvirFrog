@@ -24,3 +24,5 @@
 
 
 `it's not a bug it's a feature`
+
+-> kacper.dudczak@amu.edu.pl
