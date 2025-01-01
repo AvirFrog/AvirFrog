@@ -1,6 +1,6 @@
 # Hello Friend!
 
-Visits on this profile since 01.01.2025
+*Visits on this profile since 01.01.2025*
 
 ![](https://komarev.com/ghpvc/?username=your-AvirFroge&color=green)
 
@@ -20,6 +20,7 @@ Visits on this profile since 01.01.2025
 
 :floppy_disk: I collect Pokémon TCG cards :card_file_box:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AvirFrog&theme=tokyonight-duo&background=45%2C000000%2C711370)](https://git.io/streak-stats)
 
 ## Visits on this profile since 01.01.2024
 
@@ -27,8 +28,8 @@ Visits on this profile since 01.01.2025
 <!--
 ### number of visits to this profile in 2024
 *464*
--->
+
 
 `it's not a bug it's a feature`
-
+-->
 -> kacper.dudczak@amu.edu.pl
