@@ -24,8 +24,10 @@ Visits on this profile since 01.01.2025
 ## Visits on this profile since 01.01.2024
 
 ![Visitor Count](https://profile-counter.glitch.me/{AvirFrog}/count.svg)
+<!--
 ### number of visits to this profile in 2024
-*467*
+*464*
+-->
 
 `it's not a bug it's a feature`
 
