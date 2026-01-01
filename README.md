@@ -2,8 +2,8 @@
 
 *Visits on this profile since 01.01.2025*
 
-![](https://komarev.com/ghpvc/?username=your-AvirFroge&color=green)
 ![](https://komarev.com/ghpvc/?username=your-AvirFroge&color=blueviolet)
+
 ## $ whoami
 
 :floppy_disk: My name is Kacper :octopus:
@@ -24,11 +24,8 @@
 -->
 ### number of visits to this profile:
 
-#### in 2024
-*464*
-
-### in 2025
-*421*
+**in 2024** -> *464*
+**in 2025** -> *421*
 
 `it's not a bug it's a feature`
 -> kacper.dudczak@amu.edu.pl
