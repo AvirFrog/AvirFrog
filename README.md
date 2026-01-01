@@ -19,6 +19,7 @@
 ### number of visits to this profile:
 
 **in 2024** -> *464*
+
 **in 2025** -> *421*
 
 `it's not a bug it's a feature`
