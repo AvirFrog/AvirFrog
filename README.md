@@ -14,14 +14,8 @@
 
 :floppy_disk: I like python :snake:
 
-:floppy_disk: I'm learning ML (it's time to create the Matrix ) :dark_sunglasses:
-
-:floppy_disk: I'm interested in astronomy :telescope:
-
 :floppy_disk: I collect Pokémon TCG cards :card_file_box:
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=AvirFrog&theme=tokyonight-duo&background=45%2C000000%2C711370)](https://git.io/streak-stats)
--->
+
 ### number of visits to this profile:
 
 **in 2024** -> *464*
