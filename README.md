@@ -23,4 +23,14 @@
 **in 2025** -> *421*
 
 `it's not a bug it's a feature`
+
 -> kacper.dudczak@amu.edu.pl
+
+
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  template: terminal
+  filename: metrics.terminal.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, metadata
